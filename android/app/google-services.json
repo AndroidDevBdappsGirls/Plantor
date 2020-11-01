@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "274446904455",
+    "firebase_url": "https://plantor-bf805.firebaseio.com",
+    "project_id": "plantor-bf805",
+    "storage_bucket": "plantor-bf805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274446904455:android:c7dbe0b829cc89c253dc22",
+        "android_client_info": {
+          "package_name": "com.trina.plantor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274446904455-2652e0s56in2pom3btb59cjo1ndlfffr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHpgvz1jorfuqFx4WHe0ucESM249Tv0a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274446904455-2652e0s56in2pom3btb59cjo1ndlfffr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
